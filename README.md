@@ -1,2 +1,3 @@
 # RecyclerViewSingleCheck
 RecyclerView单选
+单选问题及获得单选的实体类，包括闪烁问题
